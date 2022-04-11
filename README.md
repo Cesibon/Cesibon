@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cesibon
 - 👀 I’m interested in money
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... by telepathy
 
 <!---
